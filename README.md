@@ -1,2 +1,2 @@
-# Data_visualization
-For projects focused on data visualization 
+# Exploratory Data Analysis and Data Visualization
+For projects focused on EDA and data visualization 
